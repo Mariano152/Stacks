@@ -1,0 +1,3 @@
+D:/C/C++ algoritmos/Stacks/cmake-build-debug/CMakeFiles/Stacks.dir
+D:/C/C++ algoritmos/Stacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C/C++ algoritmos/Stacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
